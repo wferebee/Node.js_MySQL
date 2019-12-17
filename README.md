@@ -13,7 +13,8 @@
 ## Choosing items and a quantity
 ![Screenshot (43)](https://user-images.githubusercontent.com/53095806/70967591-aa0cb780-2064-11ea-9976-ed1fb03293cd.png)
 
-## Items bought and price expressed   ##### (green 's' was removed)
+## Items bought and price expressed   
+##### green 's' was removed
 ![Screenshot (44)](https://user-images.githubusercontent.com/53095806/70967596-ada03e80-2064-11ea-9ed6-b2129231327a.png)
 
 ## Trying to buy too much of a product
