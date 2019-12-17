@@ -1,4 +1,24 @@
-# Node.js_MySQL
+# Node.js_MySQL  by WILLIAM FEREBEE
+
+# About
+ ### This Node.js /MySQL or (Bamazon) app is fairly simple. it creates a demo storefront where customers can "purchase" items and the databse updates in realtime and displays relavent info to the user. This is just a small demonstration, but it in practice shows what could be done on a much larger scale just using Node.js and MySQL.
+ 
+ 
+ ## Technologies Used
+  * Node.js
+  * MySQL
+  * NPM
+  * NPM Colors
+  * Console.table node package
+
+
+
+#   WATCH ME DEMO THE APP
+# https://drive.google.com/file/d/1wStkNv3Hoxqwx4lchvKHF1DhL40riQyU/view?usp=sharing
+
+
+
+*
 
 
 
