@@ -17,9 +17,9 @@
 # https://drive.google.com/file/d/1wStkNv3Hoxqwx4lchvKHF1DhL40riQyU/view?usp=sharing
 
 
-##### feel free to clone the repository
- * once cloned just run npm init in your bash and you should be good to go
- * installation of  Node.js and MySQL required
+##### Feel free to clone the repository
+ * once cloned just run - npm init - in your bash and you should be good to go
+ * installation of Node.js and MySQL required
  
  
  
