@@ -109,7 +109,7 @@ function checkInventory(userChoice, inventory) {
         console.log("\n\n\n\n\n\n\n\n\n\n\n\n")
         console.log("--------------------------------------------------------------".yellow);
         console.log("--------------------------------------------------------------".yellow);
-        console.log("\n Congratulations, you purchased ".green + quantity + " " + product.product_name + "s!".green + "\n for a total of $".green + total( quantity, product.price) + "\n\n would you like to make another purchase? \n".rainbow);
+        console.log("\n Congratulations, you purchased ".green + quantity + " " + product.product_name + "s!" + "\n for a total of $".green + total( quantity, product.price) + "\n\n would you like to make another purchase? \n".rainbow);
         showProducts();
         console.log("\n TO EXIT, press (Ctrl + c) \n".yellow); // lolol
       }
